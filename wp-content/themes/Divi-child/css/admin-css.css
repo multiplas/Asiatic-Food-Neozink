@@ -1,0 +1,4 @@
+.post-type-post .edit-post-visual-editor div, .post-type-post #editor .edit-post-visual-editor textarea, .post-type-post .block-editor-rich-text__editable,
+.widgets-php .edit-post-visual-editor div, .widgets-php #editor .edit-post-visual-editor textarea, .widgets-php .block-editor-rich-text__editable  {
+    color: #000;
+}
